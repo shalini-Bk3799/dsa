@@ -1,2 +1,0 @@
-# dsa
-i am student 
